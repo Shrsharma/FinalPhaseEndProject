@@ -6,7 +6,7 @@ namespace FinalPhaseEndProject
     {
         static void Main(string[] args)
         {
-            TeacherFileSys.Do();
+            HomePage.Do();
         }
     }
 }
